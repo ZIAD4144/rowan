@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rowan-esperanza.netlify.app/sitemap.xml
